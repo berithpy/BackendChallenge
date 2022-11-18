@@ -16,7 +16,7 @@ Build a REST or GRAPHQL API server which allows users to CRUD notes
 * Performance
 * Git good practices
 * Completion of the task
-* Styled visualization of selection
+* First run docs/ Readme
 
 Submission
 Fork it, make it private and share it with me!
