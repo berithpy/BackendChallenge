@@ -10,6 +10,7 @@ Build a REST or GRAPHQL API server which allows users to CRUD notes
 #### Bonus requirements
 * Support for multiple users
 * Only the users that created the notes should be able to manipulate them
+* API documentation (swagger or equivalent)
 
 #### Scored aspects in no particular order
 * Code quality and style
