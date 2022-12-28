@@ -20,4 +20,4 @@ Build a REST or GRAPHQL API server which allows users to CRUD notes
 * First run docs/ Readme
 
 Submission
-Fork it, make it private and share it with me!
+Fork it, make it private, add instructions on how to test it and share it with me!
